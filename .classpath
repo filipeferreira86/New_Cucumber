@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/filipe.jesus/Documents/Testes/scripts/jars/cc/cobertura-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/filipe.jesus/Documents/Testes/scripts/jars/cc/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/filipe.jesus/Documents/Testes/scripts/jars/cc/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/filipe.jesus/Documents/Testes/scripts/jars/cc/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/filipe.jesus/Documents/Testes/scripts/jars/cc/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/filipe.jesus/Documents/Testes/scripts/jars/cc/cucumber-reporting-4.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/filipe.jesus/Documents/Testes/scripts/jars/cc/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/filipe.jesus/Documents/Testes/scripts/jars/cc/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/filipe.jesus/Documents/Testes/scripts/jars/cc/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/filipe.jesus/Documents/Testes/scripts/jars/selenium/standalone/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
